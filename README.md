@@ -11,4 +11,6 @@
 
 ![gif of the project](https://media.giphy.com/media/WUNzwoLqG9WcQwjPMj/giphy.gif "Java College DB Project")
 
+
+### Example text files:
 Student-01.txt file is a sample csv file template used to read in data to be stored as a linked list. AlphaCollege.txt is an example of the filtering and sorting accomplished using the simple alphabetizing filter method. This also exemplifies the programs ability to format the data as an easy-to-read output.
