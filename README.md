@@ -10,3 +10,5 @@
 - [ ] Filter class that holds methods that the Student linked list utilizes to filter, sort and search. As stated above the Filter class uses algorithms in the Batch class, but implements File, PrintStream and Scanner libraries to read from and write to new files.
 
 ![gif of the project](https://media.giphy.com/media/WUNzwoLqG9WcQwjPMj/giphy.gif "Java College DB Project")
+
+Student-01.txt file is a sample csv file template used to read in data to be stored as a linked list. AlphaCollege.txt is an example of the filtering and sorting accomplished using the simple alphabetizing filter method. This also exemplifies the programs ability to format the data as an easy-to-read output.
