@@ -1,5 +1,5 @@
 # Java College Database Search and Sort
----
+
 ## Multi-faceted program designed to organize and filter a csv DB of enrolled students at a college.
 
 ### Notable class structures:
