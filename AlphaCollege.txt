@@ -1,0 +1,315 @@
+Name: 		Jessup Alcott
+Age: 		41
+Rank: 		SENIOR
+Major: 		ASTRONOMY
+Course 		Score
+-----------------------
+ATR 100 	3.20
+PHYS 22 	3.00
+CSC 143 	2.20
+-----------------------
+Cum. GPA: 	2.80
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Finnegan Bean
+Age: 		24
+Rank: 		FRESHMAN
+Major: 		COMPUTERSCIENCE
+Course 		Score
+-----------------------
+PHYS 22 	3.30
+CSC 143 	3.10
+ENG 214 	3.50
+-----------------------
+Cum. GPA: 	3.30
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Winter Bourne
+Age: 		27
+Rank: 		FRESHMAN
+Major: 		COMPUTERSCIENCE
+Course 		Score
+-----------------------
+CSC 143 	2.80
+MATH 163 	3.00
+ENG 214 	2.50
+-----------------------
+Cum. GPA: 	2.77
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Phillip Chan
+Age: 		19
+Rank: 		FRESHMAN
+Major: 		COMPUTERSCIENCE
+Course 		Score
+-----------------------
+PHYS 22 	3.80
+CSC 143 	2.10
+ENG 214 	3.60
+-----------------------
+Cum. GPA: 	3.17
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Travis Conley
+Age: 		33
+Rank: 		JUNIOR
+Major: 		COMPUTERSCIENCE
+Course 		Score
+-----------------------
+PHYS 22 	3.80
+CSC 143 	2.10
+ENG 214 	3.60
+-----------------------
+Cum. GPA: 	3.17
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Michelle Cordero
+Age: 		21
+Rank: 		SOPHOMORE
+Major: 		PHYSICS
+Course 		Score
+-----------------------
+PHYS 22 	1.70
+CSC 143 	2.20
+MATH 163 	2.40
+-----------------------
+Cum. GPA: 	2.10
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Holden Flack
+Age: 		29
+Rank: 		JUNIOR
+Major: 		COMPUTERSCIENCE
+Course 		Score
+-----------------------
+PHYS 22 	3.10
+MATH 163 	3.60
+ENG 214 	3.80
+-----------------------
+Cum. GPA: 	3.50
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Wilbur Grant
+Age: 		21
+Rank: 		SOPHOMORE
+Major: 		COMPUTERSCIENCE
+Course 		Score
+-----------------------
+PHYS 22 	3.70
+MATH 163 	4.00
+ENG 214 	3.60
+-----------------------
+Cum. GPA: 	3.77
+Deans List: 	Yes
+Probation: 	No
+
+
+Name: 		Luke Hogan
+Age: 		27
+Rank: 		SOPHOMORE
+Major: 		COMPUTERSCIENCE
+Course 		Score
+-----------------------
+PHYS 22 	3.20
+MATH 163 	2.30
+ENG 214 	3.50
+-----------------------
+Cum. GPA: 	3.00
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Charles Lee
+Age: 		20
+Rank: 		SOPHOMORE
+Major: 		ENGINEERING
+Course 		Score
+-----------------------
+PHYS 22 	3.50
+MATH 163 	2.70
+ENG 214 	3.40
+-----------------------
+Cum. GPA: 	3.20
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Jessica Lemon
+Age: 		31
+Rank: 		SENIOR
+Major: 		COMPUTERSCIENCE
+Course 		Score
+-----------------------
+MATH 163 	3.90
+CSC 143 	3.50
+ENG 214 	3.20
+-----------------------
+Cum. GPA: 	3.53
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Henry Li
+Age: 		22
+Rank: 		JUNIOR
+Major: 		ENGINEERING
+Course 		Score
+-----------------------
+PHYS 22 	3.50
+MATH 163 	3.30
+ATR 100 	3.70
+-----------------------
+Cum. GPA: 	3.50
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Samuel Mitty
+Age: 		27
+Rank: 		JUNIOR
+Major: 		ENGINEERING
+Course 		Score
+-----------------------
+PHYS 22 	3.50
+CSC 143 	2.50
+MATH 163 	3.60
+-----------------------
+Cum. GPA: 	3.20
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Walter Mitty
+Age: 		20
+Rank: 		FRESHMAN
+Major: 		ENGINEERING
+Course 		Score
+-----------------------
+PHYS 22 	3.50
+CSC 143 	2.50
+MATH 163 	3.60
+-----------------------
+Cum. GPA: 	3.20
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Jared Peters
+Age: 		21
+Rank: 		SOPHOMORE
+Major: 		PHYSICS
+Course 		Score
+-----------------------
+PHYS 22 	1.70
+CSC 143 	1.50
+MATH 163 	1.40
+-----------------------
+Cum. GPA: 	1.53
+Deans List: 	No
+Probation: 	Yes
+
+
+Name: 		Nevil Pier
+Age: 		33
+Rank: 		JUNIOR
+Major: 		PHYSICS
+Course 		Score
+-----------------------
+MATH 163 	3.40
+PHYS 22 	2.80
+ENG 214 	3.20
+-----------------------
+Cum. GPA: 	3.13
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Martin Salamander
+Age: 		27
+Rank: 		SOPHOMORE
+Major: 		ENGINEERING
+Course 		Score
+-----------------------
+PHYS 22 	1.50
+MATH 163 	1.70
+ENG 214 	1.40
+-----------------------
+Cum. GPA: 	1.53
+Deans List: 	No
+Probation: 	Yes
+
+
+Name: 		William Sanchez
+Age: 		19
+Rank: 		FRESHMAN
+Major: 		COMPUTERSCIENCE
+Course 		Score
+-----------------------
+PHYS 22 	3.20
+MATH 163 	2.30
+ENG 214 	3.50
+-----------------------
+Cum. GPA: 	3.00
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Michael Wang
+Age: 		36
+Rank: 		SOPHOMORE
+Major: 		ENGINEERING
+Course 		Score
+-----------------------
+ENG 214 	1.70
+CSC 143 	1.90
+PHYS 22 	1.40
+-----------------------
+Cum. GPA: 	1.67
+Deans List: 	No
+Probation: 	Yes
+
+
+Name: 		Michael Wang
+Age: 		19
+Rank: 		SOPHOMORE
+Major: 		ENGINEERING
+Course 		Score
+-----------------------
+PHYS 22 	2.80
+MATH 163 	3.00
+ENG 214 	2.90
+-----------------------
+Cum. GPA: 	2.90
+Deans List: 	No
+Probation: 	No
+
+
+Name: 		Carter West
+Age: 		19
+Rank: 		SOPHOMORE
+Major: 		COMPUTERSCIENCE
+Course 		Score
+-----------------------
+PHYS 22 	3.40
+MATH 163 	3.00
+ENG 214 	3.30
+-----------------------
+Cum. GPA: 	3.23
+Deans List: 	No
+Probation: 	No
+
+
